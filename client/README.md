@@ -1,1 +1,1 @@
-Made with use of React and BOOTSTRAP
+Made with use of React

@@ -25,7 +25,7 @@ const Contact = () => {
             <BiPhoneCall /> : 9178388822(Krutika)
           </p>
           <p className="mt-3">
-            <BiSupport /> : 7849042812(Anubhab)
+            <BiSupport /> : 6304858620(ujjwal)
           </p>
         </div>
       </div>
